@@ -1,0 +1,37 @@
+.container
+{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(148, 107, 179);
+    display: grid;
+    align-items: center;
+    justify-content: space-around;
+    grid-template-columns: auto auto auto;
+}
+.box
+{
+    height: 125px;
+    width: 125px;
+    background-color: rgba(141, 50, 91, 0.918);
+    font-size: 4em;
+    align-content: center;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#b2{
+    background-color: rgba(141, 50, 91, 0.918);
+    color: rgba(141, 50, 91, 0.918);
+}
+#b4{
+    background-color: rgba(141, 50, 91, 0.918);
+    color: rgba(141, 50, 91, 0.918);
+}
+#b6{
+    background-color: rgba(141, 50, 91, 0.918);
+    color: rgba(141, 50, 91, 0.918);
+}
+#b8{
+    background-color: rgba(141, 50, 91, 0.918);
+    color: rgba(141, 50, 91, 0.918);
+}
